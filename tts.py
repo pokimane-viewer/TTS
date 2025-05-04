@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys, re, os, subprocess
+import sys, re, os
 from concurrent.futures import ThreadPoolExecutor
 import simpleaudio as sa
 try:
@@ -14,17 +14,9 @@ def synthesize(tts, text, idx, out_dir):
     if use_coqui:
         path = os.path.join(out_dir, f"segment_{idx}.wav")
         tts.tts_to_file(text=text, file_path=path)
-        tmp = path + ".tmp.wav"
-        subprocess.run(["ffmpeg", "-y", "-i", path, "-filter:a", "atempo=2.0", tmp],
-                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        os.replace(tmp, path)
     else:
         path = os.path.join(out_dir, f"segment_{idx}.mp3")
         gTTS(text=text, lang='en').save(path)
-        tmp = path + ".tmp.mp3"
-        subprocess.run(["ffmpeg", "-y", "-i", path, "-filter:a", "atempo=2.0", tmp],
-                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        os.replace(tmp, path)
     return idx, path
 
 def play_file(path):
