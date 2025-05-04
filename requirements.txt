@@ -1,0 +1,4 @@
+PyObjC
+gTTS
+playsound
+simpleaudio
