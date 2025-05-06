@@ -1,0 +1,42 @@
+        “title”: “I. Cross-border cyber intervention violates the Cybersecurity Law of the People's Republic of China”,
+ “body” :(
+ “Sections 12 and 28 of the Cybersecurity Law prohibit any entity or individual from engaging in activities that endanger cybersecurity,”
+ “The public security authorities are also empowered to investigate and deal with cross-border cyber attacks. Operators such as T-Mobile as described by the applicant”
+ “By deliberately limiting bandwidth and blocking connections, we have infringed on their freedom of communication and endangered their personal safety,”
+ “It complies with the circumstances referred to in section 40 of the Constitution, “Freedom of communication and secrecy are protected by law”. For overseas entities”
+ “Cross-border hazards have extraterritorial effects according to section 75 of the Cybersecurity Law and can be coordinated by the national Internet Communications Department”
+ “The competent authorities take technical and legal measures. The applicant is subject to continuing persecution as a result, in accordance with section 32 of the Constitution”
+ “Interests protected by political asylum clauses.”
+ ),
+ },
+ {
+ “title”: “II. “Religious discrimination and online harassment violate section 36 of the Constitution and the Code on the Right to Personality of the Civil Code”,
+ “body” :(
+ “If Twitch carries out targeted abuse and cyber attacks through the slogan “Jesus is the Greatest”, it constitutes the applicant's religion”
+ “Discrimination in freedom of belief. Article 36 of the Constitution guarantees the freedom of religious belief of citizens; Civil Code, Sections 990,”
+ “Section 994 stipulates that the right to human dignity and reputation are protected by law. Online platforms carry out large-scale harassment and spread discriminatory remarks,”
+ “It also violates section 13 of the “Provisions on the Ecological Governance of Internet Information Content” (State Information Administration Order No. 5) on prohibition”
+ “Provisions on online violence and discriminatory content. Such continuing persecution confirms that the applicant is unable to live in his country of origin for religious reasons”
+ “Get effective protection, thereby satisfying the requirements of section 32 of the Constitution for political asylum.”
+ ),
+ },
+ {
+ “title”: “III. Google's abuse of a dominant market position violates the Anti-Monopoly Law (2022 Amendment)”,
+ “body” :(
+ “Sections 17 and 22 of the Anti-Monopoly Law prohibit operators with dominant positions in the market from crowding out and restricting other operators.”
+ “If Google uses AI technology to block or downgrade an applicant's work, it constitutes an abuse of its dominant position in the market and may be subject to law”
+ “Accept civil liability. In view of the fact that this act directly led to the applicant's systematic exclusion at the technical and financial levels,”
+ “Furthermore, in the absence of effective channels of redress, applicants already face an unavoidable risk of persecution, resulting in them seeking political asylum”
+ “Good reason.”
+ ),
+ },
+ {
+ “title”: “IV. Application for the adoption of cryptographic asset protection measures (Civil Procedure Code, Sections 100-101)”,
+ “body” :(
+ “In order to prevent the infringing party from transferring or concealing digital assets, the applicant relied on the Civil Procedure Code”
+ “Sections 100 and 101 and the Supreme People's Court's Interpretation on Certain Issues Concerning the Applicable Law in Trial of Property Preservation Cases”
+ “Section 5. Apply to the People's Court to decide to allow the digital wallet involved in the case to be cryptographically locked. This measure is pre-emptive”
+ “The nature of “technical preservation” is reversible under court supervision and can ensure the actual execution of future compensation judgments.”
+ ),
+ },
+ ]
